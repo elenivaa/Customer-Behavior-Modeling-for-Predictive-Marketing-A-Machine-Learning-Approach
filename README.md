@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32202849/README.md)
 # Customer Behavior Modeling for Predictive Marketing: A Machine Learning Approach
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
